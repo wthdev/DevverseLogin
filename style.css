@@ -111,7 +111,7 @@ table tr td{
     display: inline-block;
     position: relative;
     box-shadow: 10px 10px 5px black;
-    background-image: url(images/bgfinal.jpg);
+    background-image: url(bgfinal.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
     
